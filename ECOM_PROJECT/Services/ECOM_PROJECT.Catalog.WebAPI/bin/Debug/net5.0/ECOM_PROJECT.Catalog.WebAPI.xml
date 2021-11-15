@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECOM_PROJECT.Catalog.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.CategoryController.Get(System.String)">
+            <summary>
+            Parametre girişine göre ilgili kategoriyi getirir
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.CategoryController.Create(ECOM_PROJECT.Catalog.WebAPI.Dtos.CategoryCreateDto)">
+            <summary>
+            İsteğe göre yeni kategori yaratır
+            </summary>
+            <param name="categoryCreateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.CategoryController.Delete(System.String)">
+            <summary>
+            Parametreye göre ilgili kategoriyi siler
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.CategoryController.Update(ECOM_PROJECT.Catalog.WebAPI.Dtos.CategoryUpdateDto)">
+            <summary>
+            İsteğe göre ilgili kategoriyi günceller
+            </summary>
+            <param name="categoryUpdateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.ProductController.Get(System.String)">
+            <summary>
+            Parametreye göre ilgili ürünü getirir
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.ProductController.GetAll">
+            <summary>
+            Tüm ürünleri getirir
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.ProductController.Create(ECOM_PROJECT.Catalog.WebAPI.Dtos.ProductCreateDto)">
+            <summary>
+            Parametrelere göre yeni ürün yaratır
+            </summary>
+            <param name="productCreateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.ProductController.Update(ECOM_PROJECT.Catalog.WebAPI.Dtos.ProductUpdateDto)">
+            <summary>
+            Parametrelere göre ilgili ürünü günceller
+            </summary>
+            <param name="productUpdateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECOM_PROJECT.Catalog.WebAPI.Controllers.ProductController.Delete(System.String)">
+            <summary>
+            Parametereye göre ilgili ürünü siler
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

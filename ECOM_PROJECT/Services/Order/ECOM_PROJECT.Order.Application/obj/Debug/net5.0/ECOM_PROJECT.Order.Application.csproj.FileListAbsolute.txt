@@ -1,0 +1,42 @@
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.deps.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ref\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Infrastucture.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Infrastucture.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csprojAssemblyReference.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.AssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csproj.CopyComplete
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ref\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.deps.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ref\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Application.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Infrastucture.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Infrastucture.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csprojAssemblyReference.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.AssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.csproj.CopyComplete
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ref\ECOM_PROJECT.Order.Application.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Application\obj\Debug\net5.0\ECOM_PROJECT.Order.Application.pdb

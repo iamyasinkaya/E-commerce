@@ -1,0 +1,108 @@
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.exe
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.deps.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.runtimeconfig.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.runtimeconfig.dev.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ref\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csprojAssemblyReference.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.AssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Image.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Image.WebAPI.StaticWebAssets.xml
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\scopedcss\bundle\ECOM_PROJECT.Image.WebAPI.styles.css
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csproj.CopyComplete
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ref\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.genruntimeconfig.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.exe
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.deps.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.runtimeconfig.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.runtimeconfig.dev.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ref\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csprojAssemblyReference.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.AssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Image.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Image.WebAPI.StaticWebAssets.xml
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\scopedcss\bundle\ECOM_PROJECT.Image.WebAPI.styles.css
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.csproj.CopyComplete
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ref\ECOM_PROJECT.Image.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\ECOM_PROJECT.Image.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Image.WebAPI.genruntimeconfig.cache

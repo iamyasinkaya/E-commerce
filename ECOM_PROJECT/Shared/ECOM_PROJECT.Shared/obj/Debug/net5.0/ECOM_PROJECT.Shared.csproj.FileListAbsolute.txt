@@ -1,0 +1,24 @@
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.deps.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ref\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.csprojAssemblyReference.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.AssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ref\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.deps.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ref\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\bin\Debug\net5.0\ECOM_PROJECT.Shared.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.csprojAssemblyReference.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.AssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ref\ECOM_PROJECT.Shared.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Shared\ECOM_PROJECT.Shared\obj\Debug\net5.0\ECOM_PROJECT.Shared.pdb

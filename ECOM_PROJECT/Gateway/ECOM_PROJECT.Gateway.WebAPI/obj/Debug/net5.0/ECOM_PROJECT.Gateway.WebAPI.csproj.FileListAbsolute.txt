@@ -1,0 +1,81 @@
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\configuration.development.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.exe
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.deps.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.runtimeconfig.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.runtimeconfig.dev.json
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ref\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Ocelot.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.csprojAssemblyReference.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.AssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Gateway.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Gateway.WebAPI.StaticWebAssets.xml
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\scopedcss\bundle\ECOM_PROJECT.Gateway.WebAPI.styles.css
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.csproj.CopyComplete
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ref\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.pdb
+C:\Users\YasinKaya\source\repos\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.genruntimeconfig.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\configuration.development.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.exe
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.deps.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.runtimeconfig.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.runtimeconfig.dev.json
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ref\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\Ocelot.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.AssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Gateway.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\staticwebassets\ECOM_PROJECT.Gateway.WebAPI.StaticWebAssets.xml
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\scopedcss\bundle\ECOM_PROJECT.Gateway.WebAPI.styles.css
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.csproj.CopyComplete
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ref\ECOM_PROJECT.Gateway.WebAPI.dll
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.pdb
+C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Gateway\ECOM_PROJECT.Gateway.WebAPI\obj\Debug\net5.0\ECOM_PROJECT.Gateway.WebAPI.genruntimeconfig.cache
