@@ -5,7 +5,6 @@
 As a member of the app, you can start shopping.If you're an admin in the app, you can create categories and open your products for sale.
 
 ![Build Status](https://img.shields.io/github/checks-status/iamyasinkaya/ECOM_PROJECT/main?style=for-the-badge)
-![Build Status](https://img.shields.io/docker/cloud/build/iamyasinkaya/ECOM_PROJECT?style=for-the-badge)
 ![Build Status](https://img.shields.io/readthedocs/readme?style=for-the-badge)
 ![Build Status](https://img.shields.io/github/downloads/iamyasinkaya/ECOM_PROJECT/total?style=for-the-badge)
 ![Build Status](https://img.shields.io/github/directory-file-count/iamyasinkaya/ECOM_PROJECT?style=for-the-badge)
@@ -41,13 +40,13 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
-| Portainer | [plugins/portainer/README.md][PlGh] |
-| MongoDB | [plugins/mongodb/README.md][PlGd] |
-| PostgreSQL | [plugins/postgresql/README.md][PlOd] |
-| MsSQL | [plugins/mssql/README.md][PlMe] |
-| Redis | [plugins/redis/README.md][PlGa] |
-| IdentityServer | [plugins/identityserver/README.md][PlGa] |
-| RabbitMQ | [plugins/rabbitmq/README.md][PlGa] |
+| Portainer | The link will be added.|
+| MongoDB | The link will be added. |
+| PostgreSQL | The link will be added. |
+| MsSQL | The link will be added. |
+| Redis | The link will be added.|
+| IdentityServer | The link will be added. |
+| RabbitMQ | The link will be added. |
 
 ## Docker
 
