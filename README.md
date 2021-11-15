@@ -3,6 +3,8 @@
 
 As a member of the app, you can start shopping.If you're an admin in the app, you can create categories and open your products for sale.
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/iamyasinkaya/ECOM_PROJECT)
+
 # Technologies
 - EntityFrameworkCore
 - FluentValidation
@@ -10,7 +12,7 @@ As a member of the app, you can start shopping.If you're an admin in the app, yo
 - Swagger
 - Docker
 - MsSQL
-- PostgreSQ
+- PostgreSQL
 - MongoDB
 - RabbitMq
 - Redis
