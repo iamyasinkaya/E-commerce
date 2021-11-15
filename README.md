@@ -4,8 +4,16 @@
 
 As a member of the app, you can start shopping.If you're an admin in the app, you can create categories and open your products for sale.
 
-[![Build Status](https://img.shields.io/github/checks-status/iamyasinkaya/ECOM_PROJECT/main)
-![APM](https://img.shields.io/apm/l/field)
+![Build Status](https://img.shields.io/github/checks-status/iamyasinkaya/ECOM_PROJECT/main)
+![Build Status](https://img.shields.io/docker/cloud/build/iamyasinkaya/ECOM_PROJECT?style=for-the-badge)
+![Build Status](https://img.shields.io/readthedocs/readme?style=for-the-badge)
+![Build Status](https://img.shields.io/github/downloads/iamyasinkaya/ECOM_PROJECT/total?style=for-the-badge)
+![Build Status](https://img.shields.io/github/directory-file-count/iamyasinkaya/ECOM_PROJECT?style=for-the-badge)
+![Build Status](https://img.shields.io/apm/l/readme?style=for-the-badge)
+
+
+
+
 
 
 # Technologies
