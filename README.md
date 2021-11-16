@@ -6,7 +6,7 @@ As a member of the app, you can start shopping.If you're an admin in the app, yo
 
 ![Build Status](https://img.shields.io/github/checks-status/iamyasinkaya/ECOM_PROJECT/main?style=for-the-badge)
 ![Build Status](https://img.shields.io/readthedocs/readme?style=for-the-badge)
-![Build Status](https://img.shields.io/github/downloads/iamyasinkaya/ECOM_PROJECT/total?style=for-the-badge)
+![Build Status](https://img.shields.io/github/downloads-pre/iamyasinkaya/ECOM_PROJECT/1.0.0/total?style=for-the-badge)
 ![Build Status](https://img.shields.io/github/directory-file-count/iamyasinkaya/ECOM_PROJECT?style=for-the-badge)
 ![Build Status](https://img.shields.io/apm/l/readme?style=for-the-badge)
 
