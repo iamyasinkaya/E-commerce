@@ -28,8 +28,13 @@ namespace ECOM_PROJECT.Catalog.WebAPI.Services.Concrete
         public async Task<IResult> CreateAsync(CategoryCreateDto categoryCreateDto)
         {
             var category = _mapper.Map<Category>(categoryCreateDto);
-            await _categoryRepository.AddAsync(category);
-            return new Result(ResultStatus.Success, $"{category.Name} adlı ürün eklendi!");
+            if (category != null)
+            {
+                await _categoryRepository.AddAsync(category);
+                return new Result(ResultStatus.Success, Messages.Category.Add(category.Name));
+            }
+
+            return new Result(ResultStatus.Error, Messages.Category.NotFound(false));
         }
 
         public async Task<IResult> DeleteAsync(string id)
@@ -52,7 +57,7 @@ namespace ECOM_PROJECT.Catalog.WebAPI.Services.Concrete
             {
                 categories = new List<Category>();
             }
-            
+
 
             CategoryListDto categoryListDto = new CategoryListDto
             {

@@ -687,19 +687,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YasinKaya\\.nuget\\packages\\": {}
+    "C:\\Users\\YasinKaya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
       "projectName": "ECOM_PROJECT.Gateway.WebAPI",
-      "projectPath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
+      "projectPath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
       "packagesPath": "C:\\Users\\YasinKaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\YasinKaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -752,7 +757,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

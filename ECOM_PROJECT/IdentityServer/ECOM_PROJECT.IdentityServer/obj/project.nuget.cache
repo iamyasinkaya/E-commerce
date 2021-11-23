@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Swjb5Lz0B2dWXT7awuofdhZ6N+r895vsh+6HElvI0+LYGmgQ646oYN6j54iC9CiPvEiqlsPLxOAOexaayA1eg==",
+  "dgSpecHash": "30yNqIf0UvNteLL20FJhABFEEMm5q+77WHZT1EXe3LdbnpNZK+pcIY8AJFjPsMA+O4Mbj4J6PtFIBqyqFWJtSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\IdentityServer\\ECOM_PROJECT.IdentityServer\\ECOM_PROJECT.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\IdentityServer\\ECOM_PROJECT.IdentityServer\\ECOM_PROJECT.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

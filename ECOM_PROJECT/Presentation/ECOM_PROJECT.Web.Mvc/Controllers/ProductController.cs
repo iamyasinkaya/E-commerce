@@ -22,10 +22,14 @@ namespace ECOM_PROJECT.Web.Mvc.Controllers
             _catalogService = catalogService;
             _sharedIdentityService = sharedIdentityService;
         }
+
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             return View(await _catalogService.GetAllProductAsync());
         }
+
+        [HttpGet]
         public async Task<IActionResult> Create()
         {
             var categories = await _catalogService.GetAllCategoryAsync();
@@ -50,6 +54,8 @@ namespace ECOM_PROJECT.Web.Mvc.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        [HttpGet]
         public async Task<IActionResult> Update(string id)
         {
             var course = await _catalogService.GetByProductId(id);
@@ -89,6 +95,7 @@ namespace ECOM_PROJECT.Web.Mvc.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
         public async Task<IActionResult> Delete(string id)
         {
             await _catalogService.DeleteProductAsync(id);

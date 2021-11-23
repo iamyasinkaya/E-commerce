@@ -21,3 +21,15 @@ C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.O
 C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.dll
 C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ref\ECOM_PROJECT.Order.Domain.Core.dll
 C:\Users\YasinKaya\Desktop\New folder\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.pdb
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.deps.json
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\bin\Debug\net5.0\ref\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\bin\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.pdb
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.AssemblyInfo.cs
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ref\ECOM_PROJECT.Order.Domain.Core.dll
+C:\Users\YasinKaya\source\repos\iamyasinkaya\ECOM_PROJECT\ECOM_PROJECT\Services\Order\ECOM_PROJECT.Order.Domain.Core\obj\Debug\net5.0\ECOM_PROJECT.Order.Domain.Core.pdb

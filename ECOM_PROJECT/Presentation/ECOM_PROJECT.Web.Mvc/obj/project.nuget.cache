@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lkb07clJGitVSv7XEm/pF8MT5QhVD6bOk6A8qcSWE4+rvhCOmAuS9+AHLJThu0ElkvEGi0tNEIEVb657aOVz2Q==",
+  "dgSpecHash": "RCCRbqEva7w80EQXd2w834bgdI40Xy2Ov2yiV60JoS0V2mEnOgWXlLrAs0K/JFP8l+phIafaOsRgezN+9udI0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Presentation\\ECOM_PROJECT.Web.Mvc\\ECOM_PROJECT.Web.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Presentation\\ECOM_PROJECT.Web.Mvc\\ECOM_PROJECT.Web.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512",

@@ -21,8 +21,8 @@ namespace ECOM_PROJECT.Image.WebAPI.Services.Concrete
         private readonly IWebHostEnvironment _env;
         private readonly string _wwwroot;
         private const string imgFolder = "img";
-        private const string userImagesFolder = "userImages";
-        private const string postImagesFolder = "postImages";
+        //private const string userImagesFolder = "userImages";
+        //private const string postImagesFolder = "postImages";
         public ImageService(IWebHostEnvironment env)
         {
             _env = env;

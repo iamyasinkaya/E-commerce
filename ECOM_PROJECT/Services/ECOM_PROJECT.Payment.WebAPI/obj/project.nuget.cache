@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+UCp2Iy8oNez137JBG4F3fRPFezTmVfsrXYW8Rlsb06MOqIc9vGQtJEljgYDXnULiSmi1U5Dfsnh2lxKxGDEXQ==",
+  "dgSpecHash": "iwHz08KlYLOyC65qUPMByPcETgy1GHdpMOTuuE/6OSGXSXNjibDCu5aET4g8TA/ZGuxdZQ3KWhxpTMJLBq1XUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Services\\ECOM_PROJECT.Payment.WebAPI\\ECOM_PROJECT.Payment.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Services\\ECOM_PROJECT.Payment.WebAPI\\ECOM_PROJECT.Payment.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

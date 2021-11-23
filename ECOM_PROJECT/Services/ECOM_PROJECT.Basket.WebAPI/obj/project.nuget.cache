@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fIy4a1CUvPlAC4k4T+ViuM2JbOQu+rXeYz0LPDWJE3QIaWtWJAHrZt3bxEKPmmSLHZFK+j9U5XPY9HmZpwq6Mw==",
+  "dgSpecHash": "gLzNdxzRcgjNr0mmIl/T7qyK2jlRuLl59ddWSdkRrAb8/r2cvzwDvdFKAGbiXwVlAklubjNi4Q9eG+32eoIbhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Services\\ECOM_PROJECT.Basket.WebAPI\\ECOM_PROJECT.Basket.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Services\\ECOM_PROJECT.Basket.WebAPI\\ECOM_PROJECT.Basket.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.11\\microsoft.aspnetcore.authentication.jwtbearer.5.0.11.nupkg.sha512",

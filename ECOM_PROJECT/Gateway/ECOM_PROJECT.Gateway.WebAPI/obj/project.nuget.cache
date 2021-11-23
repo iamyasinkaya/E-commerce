@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiGaMezyJDkFeRqpfwiFssqTbxps50MYBv+b5AhppzMXILR6JYCns/wY/kjb3mkBvnz8v+hfiJuAiLoNh1sT7Q==",
+  "dgSpecHash": "7xrTk1timjpyz/NTNPELc984UUUuUYHk3+WouII13weoCteIy3SM+xtIM3vguh5hc4jJTFej8q4ixUu+iCzWHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Gateway\\ECOM_PROJECT.Gateway.WebAPI\\ECOM_PROJECT.Gateway.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",

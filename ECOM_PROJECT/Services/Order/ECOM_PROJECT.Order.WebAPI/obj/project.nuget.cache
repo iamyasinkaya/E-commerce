@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FrK9itTLj6irCl8+DdRl+dLqxzVNuwJqLpxTXkt09yDkFU0bu4GZpkwOshIqQPpIphRnEUlr3O7/Bo6LIriInQ==",
+  "dgSpecHash": "z7cgxfSlAnGOuOslzTjcSCfQ8HMixh5C9O4ArVVDj/jip9ggEjFYkiPVbNtnbYy/WCGAxqw2XK/1HjjSyQprRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YasinKaya\\Desktop\\New folder\\ECOM_PROJECT\\Services\\Order\\ECOM_PROJECT.Order.WebAPI\\ECOM_PROJECT.Order.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\YasinKaya\\source\\repos\\iamyasinkaya\\ECOM_PROJECT\\ECOM_PROJECT\\Services\\Order\\ECOM_PROJECT.Order.WebAPI\\ECOM_PROJECT.Order.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YasinKaya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\YasinKaya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

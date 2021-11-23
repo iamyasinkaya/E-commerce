@@ -117,7 +117,6 @@ namespace ECOM_PROJECT.Shared.Utilities
                 return $"{discountCode} adlı indirim kodu arşivden geri getirilmiştir.";
             }
         }
-
         public static class Order
         {
             public static string Create(int orderId)
