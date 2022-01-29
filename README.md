@@ -1,6 +1,6 @@
-# E-commerce Application with Microservice Architecture
+# E-commerce Application with Microservice Architecture :wave:	
 
-# Description
+# Description :speech_balloon:	
 
 As a member of the app, you can start shopping.If you're an admin in the app, you can create categories and open your products for sale.
 
